@@ -94,6 +94,7 @@ $servicos = $pdo->query("SELECT * FROM servicos WHERE ativo = 1")->fetchAll();
                 <a href="novo_chamado.php" class="btn btn-success btn-sm">+ Novo Chamado</a>
                 <a href="usuarios.php" class="btn btn-outline-light btn-sm">Utilizadores</a>
                 <a href="configurar.php" class="btn btn-outline-light btn-sm">Configurações</a>
+                <a href="relatorios.php" class="btn btn-outline-light btn-sm">📊 Relatórios</a>
                 <a href="logout.php" class="btn btn-danger btn-sm">Sair</a>
             </div>
         </div>
