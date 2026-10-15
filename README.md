@@ -23,6 +23,10 @@ Sistema web moderno e eficiente desenvolvido para o gerenciamento, suporte e aco
 
 ---
 
+ <img width="1311" height="591" alt="image" src="https://github.com/user-attachments/assets/a998048e-212b-4804-80d2-2658745e6e39" />
+
+---
+
 ## 📂 Estrutura do Banco de Tabela (Exemplo)
 
 O sistema baseia-se em tabelas relacionais principais:
@@ -39,4 +43,4 @@ O sistema baseia-se em tabelas relacionais principais:
    ```bash
    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
 
-   <img width="1311" height="591" alt="image" src="https://github.com/user-attachments/assets/a998048e-212b-4804-80d2-2658745e6e39" />
+  
