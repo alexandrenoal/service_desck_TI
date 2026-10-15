@@ -23,6 +23,8 @@ Sistema web moderno e eficiente desenvolvido para o gerenciamento, suporte e aco
 
 ---
 
+## ⚙️ Dashboard
+
  <img width="1311" height="591" alt="image" src="https://github.com/user-attachments/assets/a998048e-212b-4804-80d2-2658745e6e39" />
 
 ---
