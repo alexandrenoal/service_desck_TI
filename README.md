@@ -25,7 +25,7 @@ Sistema web moderno e eficiente desenvolvido para o gerenciamento, suporte e aco
 
 ## ⚙️ Dashboard
 
- <img width="1311" height="591" alt="image" src="https://github.com/user-attachments/assets/a998048e-212b-4804-80d2-2658745e6e39" />
+<img width="1175" height="533" alt="image" src="https://github.com/user-attachments/assets/ecb45a22-ca52-4653-b6d9-d1d8fe1b0380" />
 
 ---
 
